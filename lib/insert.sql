@@ -1,0 +1,1 @@
+INSERT INTO bares (name) VALUES ("Mr. Chocolate","Rowdy","Tabitha","Sergeant Brown","Melissa","Grinch","Wendy",NULL ")
